@@ -1,7 +1,7 @@
 ### Hi, I'm Sanush 👋
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1l8boPXbuE-OKTiAlngXTru7m9rU-DeNr/view?usp=sharing">
+  <img src="https://github.com/SanushRadalage/SanushRadalage/blob/master/gitIntro.png">
 </p>
 
 - 🔭 I’m currently working on [Swivel Tech](https://swiveltech.io/)
