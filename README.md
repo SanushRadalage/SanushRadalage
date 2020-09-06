@@ -1,7 +1,7 @@
 ### Hi, I'm Sanush 👋
 
 <p align="center">
-  <img src="https://drive.google.com/drive/search?q=git"/>
+  <img src="https://drive.google.com/drive/search?q=git">
 </p>
 
 - 🔭 I’m currently working on [Swivel Tech](https://swiveltech.io/)
