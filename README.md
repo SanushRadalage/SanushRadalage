@@ -4,10 +4,11 @@
   <img src="https://github.com/SanushRadalage/SanushRadalage/blob/master/intro.png">
 </p>
 
-- 🔭 I’m currently working in [CS Tech Ventures](https://ceylonsolutions.com/) as a Software Engineer | Cannabis Industry
-- 🔭 Former Software Engineer in [Swivel Tech](https://swiveltech.io/)
-- 🌱 Graduated from SLIIT | award - 1st class on Bsc (Hons) Computer Science & Software Engineering 
-- 👯 I’m looking to collaborate on mobile application development Projects
+- 👾 I’m currently working in [CS Tech Ventures](https://ceylonsolutions.com/) as a Software Engineer | Cannabis Industry
+- 👾 Former Software Engineer in [Swivel Tech](https://swiveltech.io/)
+- 👨‍🎓 Reading MSc in IT at SLIIT | Specialized in Enterprise Appplication Development
+- 👨‍🎓 Graduated from SLIIT | award - 1st class (Year 2021) on Bsc (Hons) Computer Science & Software Engineering 
+- 🎃 I’m looking to collaborate on mobile application development Projects
 - ⚡ Hobby: Watch Malayalam Movies
 
 [![Sanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanushRadalage)](https://github.com/anuraghazra/github-readme-stats)
