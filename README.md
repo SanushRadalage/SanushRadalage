@@ -1,5 +1,3 @@
-### Hi, I'm Sanush 👋
-
 <p align="center">
   <img src="https://github.com/SanushRadalage/SanushRadalage/blob/master/Black%20Technology%20LinkedIn%20Banner.png">
 </p>
