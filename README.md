@@ -2,7 +2,7 @@
   <img src="https://github.com/SanushRadalage/SanushRadalage/blob/master/Black%20Technology%20LinkedIn%20Banner.png">
 </p>
 
-- 👾 I’m currently working in [CS Tech Ventures](https://ceylonsolutions.com/) as a Software Engineer | Cannabis Industry
+- 👾 I’m currently working in [CS Tech Ventures](https://ceylonsolutions.com/) as a Senior Software Engineer | Cannabis Industry
 - 👾 Former Software Engineer in [Swivel Tech](https://swiveltech.io/)
 - 👨‍🎓 Reading MSc in IT at SLIIT | Specialized in Enterprise Appplication Development
 - 👨‍🎓 Graduated from SLIIT | award - 1st class (Year 2021) on Bsc (Hons) Computer Science & Software Engineering 
