@@ -1,7 +1,7 @@
 ### Hi, I'm Sanush 👋
 
 <p align="center">
-  <img src="https://github.com/SanushRadalage/SanushRadalage/blob/master/intro.png">
+  <img src="https://github.com/SanushRadalage/SanushRadalage/blob/master/Black%20Technology%20LinkedIn%20Banner.png">
 </p>
 
 - 👾 I’m currently working in [CS Tech Ventures](https://ceylonsolutions.com/) as a Software Engineer | Cannabis Industry
