@@ -5,8 +5,8 @@
 - 👾 I’m currently working in [PickMe Engineering](https://pickme.lk/) as a Senior Software Engineer
 - 👾 Former Senior Software Engineer in [Ceylon Solutions](https://ceylonsolutions.com/)
 - 👾 Former Software Engineer in [Swivel Tech](https://swiveltech.io/)
-- 👨‍🎓 Reading MSc in IT at SLIIT | Specialized in Enterprise Appplication Development
-- 👨‍🎓 Graduated from SLIIT | award - 1st class (Year 2021) on Bsc (Hons) Computer Science & Software Engineering 
+- 👨‍🎓 Reading MSc in IT at SLIIT | Specialized in Enterprise Application Development
+- 👨‍🎓 Graduated from SLIIT | award - 1st class (Year 2021) on BSc (Hons) Computer Science & Software Engineering 
 - 🎃 I’m looking to collaborate on mobile application development Projects
 - ⚡ Hobby: PS gamer
 
