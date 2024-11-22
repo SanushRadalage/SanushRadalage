@@ -8,7 +8,7 @@
 - 👨‍🎓 Reading MSc in IT at SLIIT | Specialized in Enterprise Appplication Development
 - 👨‍🎓 Graduated from SLIIT | award - 1st class (Year 2021) on Bsc (Hons) Computer Science & Software Engineering 
 - 🎃 I’m looking to collaborate on mobile application development Projects
-- ⚡ Hobby: Watch Malayalam Movies
+- ⚡ Hobby: PS gamer
 
 [![Sanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanushRadalage)](https://github.com/anuraghazra/github-readme-stats)
 
