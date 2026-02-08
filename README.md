@@ -7,9 +7,7 @@
 - 👨‍🎓 Graduated from SLIIT | award - 1st class (Year 2021) on BSc (Hons) Computer Science & Software Engineering 
 - 🎃 I’m looking to collaborate on mobile application development Projects
 - ⚡ Hobby: PlayStation games
-
-[![Sanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanushRadalage)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 </br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
