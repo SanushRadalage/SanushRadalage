@@ -19,7 +19,7 @@
 ```typescript
 const sanush = {
     role: "Mobile Application Developer",
-    company: "Accenture 🇲🇾",
+    current company: "Accenture, Malaysia",
     education: "BSc (Hons) Computer Science & SE — SLIIT (1st Class, 2021)",
     trustedBy: ["PickMe", "Ceylon Solutions", "Swivel Tech"],
     currentFocus: "Building delightful mobile experiences",
@@ -27,14 +27,6 @@ const sanush = {
     hobby: "PlayStation gaming 🎮",
 };
 ```
-
-- 👾 Currently working at [**Accenture**](https://www.accenture.com/my-en) 🇲🇾
-- 🌟 Trusted by leading companies — [PickMe](https://pickme.lk/), [Ceylon Solutions](https://ceylonsolutions.com/), [Swivel Tech](https://swiveltech.io/)
-- 🎓 Graduated from **SLIIT** with 1st Class Honours in Computer Science & Software Engineering (2021)
-- 🤝 Open to collaborate on **Mobile Application Development** projects
-- ⚡ When I'm offline, I'm probably on my PlayStation
-
-<br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Languages & Tools
 
@@ -54,19 +46,6 @@ const sanush = {
 <br/>
 
 ## <img src="https://media.giphy.com/media/W5fMjPzZcgUybLefyA/giphy.gif" width="30"> GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanushRadalage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanushRadalage&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanushRadalage&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanushRadalage&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="trophies"/>
-</p>
 
 <br/>
 
