@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/SanushRadalage/SanushRadalage/blob/master/Black%20Technology%20LinkedIn%20Banner.png" alt="banner"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="cute panda"/>
 </p>
 
 <p align="center">
