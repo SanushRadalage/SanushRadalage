@@ -45,10 +45,6 @@ const sanush = {
 
 <br/>
 
-## <img src="https://media.giphy.com/media/W5fMjPzZcgUybLefyA/giphy.gif" width="30"> GitHub Stats
-
-<br/>
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Activity Graph
 
 <p align="center">
