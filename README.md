@@ -19,10 +19,6 @@
 ```typescript
 const sanush = {
     role: "Mobile Application Developer",
-    current company: "Accenture, Malaysia",
-    education: "BSc (Hons) Computer Science & SE — SLIIT (1st Class, 2021)",
-    trustedBy: ["PickMe", "Ceylon Solutions", "Swivel Tech"],
-    currentFocus: "Building delightful mobile experiences",
     lookingFor: "Mobile app collaborations 🤝",
     hobby: "PlayStation gaming 🎮",
 };
